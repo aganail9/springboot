@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/Users/aragrigsby/IdeaProjects/springboot",
+  "generatedFolder": "/Users/aragrigsby/IdeaProjects/springboot/target/frontend",
+  "frontendFolder": "/Users/aragrigsby/IdeaProjects/springboot/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
